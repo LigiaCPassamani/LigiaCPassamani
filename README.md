@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LigiaCPassamani, also know as Lígia Chiarelo Passamani
-- 👀 I’m interested in Fron-end
+- 👀 I’m interested in Back-end
 - 🌱 I’m currently learning Tecnologia em Sistemas para Internet
 - 💞️ I’m looking to collaborate in examples of home pages and others
 - 📫 How to reach me --
