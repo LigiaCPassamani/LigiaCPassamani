@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LigiaCPassamani, also know as Lígia Chiarelo Passamani
 - 👀 I’m interested in Back-end
 - 🌱 I’m currently learning Tecnologia em Sistemas para Internet
-- 💞️ I’m looking to collaborate in examples of home pages and others
+- 💞️ I’m looking to collaborate in examples of code
 - 📫 How to reach me --
         Phone number = (54) 981003580 --
         E-mail = ligiacpassamani@gmail.com
