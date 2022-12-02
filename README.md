@@ -6,7 +6,7 @@
         Phone number = (54) 981003580 --
         E-mail = ligiacpassamani@gmail.com
         
-- My RA is - 20007263-5
+- Technologist
 - Hope you like my ideias and I can learn from yours :)
  
 
